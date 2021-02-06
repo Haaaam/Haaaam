@@ -5,7 +5,7 @@
 
 ![Hyem's github stats](https://github-readme-stats.vercel.app/api?username=imeamin&show_icons=true)
 <br/>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=nir805)](https://solved.ac/hyemin8670)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hyemin8670)](https://solved.ac/hyemin8670)
 
 #### :star2: I'm constantly solving problems using algorithms.
 <div align="left">
