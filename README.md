@@ -2,7 +2,7 @@
 
 
 
-![Hyem's github stats](https://github-readme-stats.vercel.app/api?username=Haaaam&show_icons=true)
+![Hyem's github stats](https://github-readme-stats.vercel.app/api?username=Haaaam&include_all_commits=true&show_icons=true)
 <br/>
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Haaaam&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
