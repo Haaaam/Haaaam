@@ -21,4 +21,4 @@
 ### 🌱 Interest
 - **Model Compression**
 - **LLM Optimisation**
-- **Multimodal Learning**
+- **Prompt Engineering**
